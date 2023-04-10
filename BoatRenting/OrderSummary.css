@@ -1,0 +1,51 @@
+@media (min-width: 1024px) {
+	#accountGroup{
+        width: 40rem;;
+    }
+    #paymentGroup{
+        width: 40rem;;
+    }
+    #changeGroup{
+        width: 40rem;;
+    }
+}
+@media (max-width: 992px){
+    #accountGroup{
+        width: 40rem;;
+    }
+    #paymentGroup{
+        width: 40rem;;
+    }
+    #changeGroup{
+        width: 40rem;;
+    }
+}
+@media (max-width: 768px){
+    #accountGroup{
+        width: 35rem;;
+    }
+    #paymentGroup{
+        width: 35rem;;
+    }
+    #changeGroup{
+        width: 35rem;;
+    }
+}
+@media (max-width: 426px){
+    #accountGroup{
+        width: 20rem;;
+    }
+    #paymentGroup{
+        width: 20rem;;
+    }
+    #changeGroup{
+        width: 20rem;;
+    }
+    .card1{
+        margin-top: -15px !important;
+    }
+    .card2{
+        margin-top: -15px !important;
+    }
+}
+
